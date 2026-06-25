@@ -1,6 +1,6 @@
 # PyTorch-Data-Pipeline-Explained-Dataset-DataLoad
 
-if it helpful for you please upvote the notebook.
+
 # Breast Cancer Classification using PyTorch
 
 In this notebook, we will build a complete **Breast Cancer Classification Model** using PyTorch while understanding the core components of a deep learning workflow.
